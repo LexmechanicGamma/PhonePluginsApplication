@@ -1,0 +1,15 @@
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\EmployeesLoader.Plugin.dll
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\EmployeesViewer.Plugin.dll
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\EmployeesViewer.Plugin.pdb
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\PhoneApp.exe.config
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\PhoneApp.exe
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\PhoneApp.pdb
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\NLog.dll
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\bin\Release\NLog.xml
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\obj\Release\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\obj\Release\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\obj\Release\PhoneApp.csproj.CopyComplete
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\obj\Release\PhoneApp.exe
+C:\Users\Wladi\Desktop\Codes\PhonePluginsApplication\PhoneApp\obj\Release\PhoneApp.pdb
